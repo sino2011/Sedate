@@ -63,16 +63,22 @@ def schedule_consulation():
         client_msg.body = f"""
         Hi {name},
 
-        Thank you for reaching out to Sedate Health. We have successfully received your request for a pre-anesthesia consultation.
+        Thank you for reaching out to Sedate Health. We 
+        have successfully received your request for a 
+        pre-anesthesia consultation.
 
         Here is a summary of what you submitted:
         - Procedure Type: {procedure_type}
         - Preferred Dates: {date_range}
 
         What happens next?
-        A board-certified anesthesiologist is personally reviewing your details. We will call or email you within one business day to officially confirm your exact 30-minute appointment time.
+        A board-certified anesthesiologist is personally 
+        reviewing your details. We will call or email you within 
+        one business day to officially confirm your exact 
+        30-minute appointment time.
 
-        If you need to make changes or have an urgent scheduling conflict, please reply directly to this email.
+        If you need to make changes or have an urgent 
+        scheduling conflict, please reply directly to this email.
 
         Best regards,
         The Sedate Health Team
