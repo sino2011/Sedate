@@ -73,12 +73,13 @@ def schedule_consulation():
 
         What happens next?
         A board-certified anesthesiologist is personally 
-        reviewing your details. We will call or email you within 
-        one business day to officially confirm your exact 
-        30-minute appointment time.
+        reviewing your details. We will call or email you 
+        within one business day to officially confirm your 
+        exact 30-minute appointment time.
 
         If you need to make changes or have an urgent 
-        scheduling conflict, please reply directly to this email.
+        scheduling conflict, 
+        please reply directly to this email.
 
         Best regards,
         The Sedate Health Team
