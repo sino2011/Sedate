@@ -393,7 +393,7 @@ onMounted(() => {
             <p class="cardThreeBtnText">
               Now that you know what a consultation covers —
             </p>
-            <button class="cardThreeBtn">
+            <button @click="scrollToSection" class="cardThreeBtn">
               Schedule Your Pre-Anesthesia Consultation
             </button>
           </div>
@@ -588,7 +588,7 @@ onMounted(() => {
             Your consultation is the place to ask anything — including the
             things on this list.
           </p>
-          <button>Book a consultation</button>
+          <button @click="scrollToSection">Book a consultation</button>
         </div>
       </div>
       <div class="questionRight animate-on-scroll">
